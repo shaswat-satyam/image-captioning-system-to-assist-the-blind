@@ -4,7 +4,7 @@
 
 + [About](#about)
 + [Getting Started](#getting_started)
-+ [Screenshots](#outcomes)
++ [Screenshots](#screenshots)
     + [Dataset Split](#dataset_split)
     + [Model Anatomy](#model_anatomy)
     + [Project Workflow](#project_workflow)
