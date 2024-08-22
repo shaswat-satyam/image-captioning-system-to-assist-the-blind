@@ -11,11 +11,11 @@
         + [main.py](#src_main)
 + [Outcomes](#outcomes)
 + [Screenshots](#outcomes)
-    + [Model Anatomy](#model anatomy)
-    + [Project Workflow](#project workflow)
+    + [Model Anatomy](#model_anatomy)
+    + [Project Workflow](#project_workflow)
     + [Results](#results)
-    + [Final Outcome](#final outcome)
-    + [Additional Outputs](#additional outputs)
+    + [Final Outcome](#final_outcome)
+    + [Additional Outputs](#additional_outputs)
 
 
 Primary Goal
