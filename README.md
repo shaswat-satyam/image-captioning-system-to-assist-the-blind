@@ -1,6 +1,22 @@
-Project Name: Image Captioning System To Assist The Blind
-============================================================
-The project is aimed at developing a system using deep learning techniques to assist visually impaired individuals in obtaining information by describing images taken by them.
+# Image Captioning System to Assist The Blind
+
+## Table of Contents
+
++ [About](#about)
++ [Getting Started](#getting_started)
+    + [Prerequisites](#prerequisites)
++ [Installing the requirements](#installing)
++ [Running the code](#run_locally)
+    + [Execution Options](#execution_options)
+        + [main.py](#src_main)
++ [Outcomes](#outcomes)
++ [Screenshots](#outcomes)
+    + [Model Anatomy](#model anatomy)
+    + [Project Workflow](#project workflow)
+    + [Results](#results)
+    + [Final Outcome](#final outcome)
+    + [Additional Outputs](#additional outputs)
+
 
 Primary Goal
 ============
