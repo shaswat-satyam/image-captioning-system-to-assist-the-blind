@@ -47,19 +47,13 @@ python3 -m venv env
 source env/bin/activate
 ```
 
-5. Install the required packages using pip:
-
-```bash
-pip install -r requirements.txt
-```
-
-6. Export the Flask app:
+5. Export the Flask app:
 
 ```bash
 export FLASK_APP=app.py
 ```
 
-7. Run the Flask app:
+6. Run the Flask app:
 
 ```bash
 flask run
