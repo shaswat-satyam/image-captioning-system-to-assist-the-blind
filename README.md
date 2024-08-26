@@ -11,7 +11,7 @@
     + [Results](#results)
     + [Final Outcome](#final_outcome)
     + [Additional Outputs](#additional_outputs)
-    + [Contributing](#contributing)
++ [Contributing](#contributing)
 
 ## About <a name = "about"></a>
 
